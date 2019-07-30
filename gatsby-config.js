@@ -18,6 +18,7 @@ module.exports = {
       },
       `gatsby-transformer-remark`,
       `gatsby-plugin-emotion`,
+      `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
